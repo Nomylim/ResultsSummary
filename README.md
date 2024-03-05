@@ -29,8 +29,7 @@ Here is a screenshot of my solution :
 
 ## My process
 
-I starded with the HTML file, adding the structure and the differents icones that were necesary. 
-Then I worked on the CSS file, which was not simple, there is a lot of differents part that need to be worked on. 
+I started with the HTML file, adding the structure and the different icons that were necessary. Then I worked on the CSS file, which was not simple. There are a lot of different parts that need to be worked on.
 
 ### Built with
 
@@ -46,4 +45,4 @@ This challenge alowed me to practice my skill with flexbox.
 
 ### Continued development
 
-In the futur I would like to be able to do the javascript par of the challenge. 
+In the futur I would like to be able to do the javascript part of the challenge. 
